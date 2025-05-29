@@ -343,8 +343,8 @@ footer a {
 
     .timeline-item::before {
         left: 50% !important;
-        transform: translateX(-50%) !important;
-        top: -30px;
+        transform: translateX(-50%) !important;  /* I don't know what property is this need to recap */
+        top: -30px; 
     }
 
     .album-content {
